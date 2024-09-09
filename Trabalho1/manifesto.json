@@ -1,0 +1,24 @@
+{
+  "compartimentoPrincipal": [
+    {
+      "tipo": "SIMPLES",
+      "peso": 800
+    },
+    {
+      "tipo": "SIMPLES",
+      "peso": 32
+    }
+  ],
+  "compartimentoPrecioso": [
+    {
+      "tipo": "PRECIOSO",
+      "peso": 20
+    }
+  ],
+  "compartimentoAuxiliar": [
+    {
+      "tipo": "SIMPLES",
+      "peso": 20
+    }
+  ]
+}

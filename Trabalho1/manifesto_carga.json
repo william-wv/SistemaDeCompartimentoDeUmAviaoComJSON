@@ -1,0 +1,41 @@
+{
+  "principal": {
+    "capacidade": 33,
+    "nome": "Compartimento Principal",
+    "cargas": [
+      {
+        "tipo": "SIMPLES",
+        "peso": 400,
+        "numeroRastreio": 0
+      },
+      {
+        "tipo": "SIMPLES",
+        "peso": 400,
+        "numeroRastreio": 0
+      }
+    ]
+  },
+  "precioso": {
+    "capacidade": 0,
+    "nome": "Compartimento Precioso",
+    "cargas": [
+      {
+        "tipo": "PRECIOSO",
+        "peso": 20,
+        "numeroRastreio": 0
+      }
+    ]
+  },
+  "auxiliar": {
+    "capacidade": 22,
+    "nome": "Compartimento Auxiliar",
+    "cargas": [
+      {
+        "tipo": "SIMPLES",
+        "peso": 200,
+        "numeroRastreio": 0
+      }
+    ]
+  },
+  "contadorRastreio": 0
+}

@@ -1,0 +1,23 @@
+{
+  "principal": {
+    "capacidade": 833,
+    "nome": "Compartimento Principal",
+    "pesoArmazenado": 0
+  },
+  "precioso": {
+    "capacidade": 222,
+    "nome": "Compartimento Precioso",
+    "pesoArmazenado": 0
+  },
+  "auxiliar": {
+    "capacidade": 100,
+    "nome": "Compartimento Auxiliar",
+    "pesoArmazenado": 0
+  },
+  "caixas": [
+    {
+      "tipo": "SIMPLES",
+      "peso": 200
+    }
+  ]
+}
